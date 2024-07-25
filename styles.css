@@ -191,4 +191,7 @@ fieldset > div > div:focus {
   #support-request {
     flex: 1;
   }
+  #message-textarea {
+    height: 6rem;
+  }
 }
